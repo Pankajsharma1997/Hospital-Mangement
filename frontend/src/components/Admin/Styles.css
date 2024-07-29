@@ -1,0 +1,62 @@
+.heading_icon {
+  margin: 70px 60px 20px 0px;
+}
+
+.no-padding-margin {
+  padding: 0;
+  margin: 0;
+}
+
+.header_dropdown {
+  margin-right: 100px;
+}
+.sidebar-links {
+  text-decoration: none;
+  color: #ca8010;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: 500;
+  margin: 90px 15px 75px;
+}
+
+.sidebar_border {
+  border-right: 4px solid #6a5de0;
+  padding-right: 15px;
+  height: 50vh;
+}
+
+/*  Edit Doctor Details  */
+
+.detail-container {
+  background-color: #2c5f2dff;
+  padding: 20px; /* Optional: Add some padding */
+  margin: 5px;
+}
+
+.detailpart {
+  display: flex;
+  column-gap: 100px;
+  margin-bottom: 8px;
+}
+
+.detailpart h3 {
+  color: #ffe77aff;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  flex: 1;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.detailpart input.form-control.form-control {
+  flex: 1;
+}
+
+button.edit-custom-btn {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 30px auto 0;
+  display: block;
+}

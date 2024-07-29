@@ -1,0 +1,7 @@
+.login_backgroundimg  {
+  background-image: url("../assets/Images/hospitallogin.jpg");
+  height: 100%;
+  width: 110%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
